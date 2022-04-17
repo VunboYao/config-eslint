@@ -1,6 +1,6 @@
 {
-  "name": "@vunbo/config-eslint",
-  "version": "1.0.0",
+  "name": "@vunbo/eslint-config",
+  "version": "1.0.1",
   "description": "the best config of eslint, extends @antfu",
   "main": "index.js",
   "files": [
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/VunboYao/config-eslint.git"
   },
   "keywords": [
-    "eslintConfig"
+    "eslint,eslint-config"
   ],
   "author": "vunbo",
   "license": "ISC",
@@ -27,5 +27,8 @@
   },
   "devDependencies": {
     "eslint": "^8.13.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
