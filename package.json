@@ -11,7 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/VunboYao/config-eslint.git"
   },
-  "author": "",
+  "keywords": [
+    "eslintConfig"
+  ],
+  "author": "vunbo",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/VunboYao/config-eslint/issues"
