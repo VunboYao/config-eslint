@@ -14,6 +14,6 @@ then
   npm version $VERSION --message "[release] $VERSION"
   git push origin master
 
-  #publish
+  # publish
   npm publish
 fi
