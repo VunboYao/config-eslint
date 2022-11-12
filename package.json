@@ -1,6 +1,6 @@
 {
   "name": "@vunbo/eslint-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "the best config of eslint, extends @antfu",
   "main": "index.js",
   "files": [
