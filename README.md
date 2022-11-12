@@ -7,7 +7,7 @@ the best config for eslint, extends @antfu
 
 `pnpm add -D eslint @vunbo/eslint-config`
 
-## Config `.eslintrc`
+## Config `.eslintrc.js`
 
 ```javascript
 module.exports = {
